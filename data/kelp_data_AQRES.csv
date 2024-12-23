@@ -1,0 +1,469 @@
+"","map_index","year_","region","kelp_sp","cover"
+"1","SIAR-1,1.1",2010,"Smith and Minor Island AR","tot_ne_can",0
+"2","SIAR-1,1.1",2010,"Smith and Minor Island AR","tot_ne_pl",0
+"3","SIAR-1,1.2",2010,"Smith and Minor Island AR","tot_ne_can",34.5
+"4","SIAR-1,1.2",2010,"Smith and Minor Island AR","tot_ne_pl",65.30000305
+"5","SIAR-1,1.3",2010,"Smith and Minor Island AR","tot_ne_can",1.200000048
+"6","SIAR-1,1.3",2010,"Smith and Minor Island AR","tot_ne_pl",5.800000191
+"7","SIAR-1,1.1",2012,"Smith and Minor Island AR","tot_ne_can",0.200000003
+"8","SIAR-1,1.1",2012,"Smith and Minor Island AR","tot_ne_pl",2.599999905
+"9","SIAR-1,1.2",2012,"Smith and Minor Island AR","tot_ne_can",42.59999847
+"10","SIAR-1,1.2",2012,"Smith and Minor Island AR","tot_ne_pl",78.19999695
+"11","SIAR-1,1.3",2012,"Smith and Minor Island AR","tot_ne_can",1
+"12","SIAR-1,1.3",2012,"Smith and Minor Island AR","tot_ne_pl",7.699999809
+"13","SIAR-1,1.4",2012,"Smith and Minor Island AR","tot_ne_can",0
+"14","SIAR-1,1.4",2012,"Smith and Minor Island AR","tot_ne_pl",0
+"15","SIAR-2,2.1",2012,"Smith and Minor Island AR","tot_ne_can",14.80000019
+"16","SIAR-2,2.1",2012,"Smith and Minor Island AR","tot_ne_pl",63
+"17","SIAR-2,2.2",2012,"Smith and Minor Island AR","tot_ne_can",12.39999962
+"18","SIAR-2,2.2",2012,"Smith and Minor Island AR","tot_ne_pl",43.20000076
+"19","SIAR-3,3.1",2012,"Smith and Minor Island AR","tot_ne_can",8.800000191
+"20","SIAR-3,3.1",2012,"Smith and Minor Island AR","tot_ne_pl",43.70000076
+"21","SIAR-3,3.2",2012,"Smith and Minor Island AR","tot_ne_can",2.900000095
+"22","SIAR-3,3.2",2012,"Smith and Minor Island AR","tot_ne_pl",29.39999962
+"23","CIAR-1,1.1",2012,"Cypress Island AR","tot_ne_can",1.700000048
+"24","CIAR-1,1.1",2012,"Cypress Island AR","tot_ne_pl",8.300000191
+"25","CIAR-1,1.2",2012,"Cypress Island AR","tot_ne_can",1.600000024
+"26","CIAR-1,1.2",2012,"Cypress Island AR","tot_ne_pl",11.5
+"27","CIAR-1,1.3",2012,"Cypress Island AR","tot_ne_can",2.5
+"28","CIAR-1,1.3",2012,"Cypress Island AR","tot_ne_pl",14.5
+"29","CIAR-1,1.4",2012,"Cypress Island AR","tot_ne_can",1.200000048
+"30","CIAR-1,1.4",2012,"Cypress Island AR","tot_ne_pl",7
+"31","CIAR-1,1.5",2012,"Cypress Island AR","tot_ne_can",0.200000003
+"32","CIAR-1,1.5",2012,"Cypress Island AR","tot_ne_pl",3.200000048
+"33","CIAR-1,1.6",2012,"Cypress Island AR","tot_ne_can",5.099999905
+"34","CIAR-1,1.6",2012,"Cypress Island AR","tot_ne_pl",17.79999924
+"35","CIAR-1,1.7",2012,"Cypress Island AR","tot_ne_can",0.699999988
+"36","CIAR-1,1.7",2012,"Cypress Island AR","tot_ne_pl",5.599999905
+"37","CIAR-1,1.8",2012,"Cypress Island AR","tot_ne_can",0.800000012
+"38","CIAR-1,1.8",2012,"Cypress Island AR","tot_ne_pl",5.900000095
+"39","CIAR-1,1.9",2012,"Cypress Island AR","tot_ne_can",0.600000024
+"40","CIAR-1,1.9",2012,"Cypress Island AR","tot_ne_pl",4.5
+"41","CPAR-1,1.1",2012,"Cherry Point AR","tot_ne_can",0.200000003
+"42","CPAR-1,1.1",2012,"Cherry Point AR","tot_ne_pl",1.700000048
+"43","CPAR-1,1.2",2012,"Cherry Point AR","tot_ne_can",10.60000038
+"44","CPAR-1,1.2",2012,"Cherry Point AR","tot_ne_pl",57.90000153
+"45","CPAR-1,1.3",2012,"Cherry Point AR","tot_ne_can",3.700000048
+"46","CPAR-1,1.3",2012,"Cherry Point AR","tot_ne_pl",37.79999924
+"47","CPAR-1,1.4",2012,"Cherry Point AR","tot_ne_can",3.700000048
+"48","CPAR-1,1.4",2012,"Cherry Point AR","tot_ne_pl",20.79999924
+"49","SIAR-1,1.1",2013,"Smith and Minor Island AR","tot_ne_can",0.100000001
+"50","SIAR-1,1.1",2013,"Smith and Minor Island AR","tot_ne_pl",1.700000048
+"51","SIAR-1,1.2",2013,"Smith and Minor Island AR","tot_ne_can",35.29999924
+"52","SIAR-1,1.2",2013,"Smith and Minor Island AR","tot_ne_pl",75.19999695
+"53","SIAR-1,1.3",2013,"Smith and Minor Island AR","tot_ne_can",0.200000003
+"54","SIAR-1,1.3",2013,"Smith and Minor Island AR","tot_ne_pl",3.900000095
+"55","SIAR-1,1.4",2013,"Smith and Minor Island AR","tot_ne_can",0
+"56","SIAR-1,1.4",2013,"Smith and Minor Island AR","tot_ne_pl",0
+"57","SIAR-2,2.1",2013,"Smith and Minor Island AR","tot_ne_can",12.19999981
+"58","SIAR-2,2.1",2013,"Smith and Minor Island AR","tot_ne_pl",62
+"59","SIAR-2,2.2",2013,"Smith and Minor Island AR","tot_ne_can",10.80000019
+"60","SIAR-2,2.2",2013,"Smith and Minor Island AR","tot_ne_pl",41
+"61","SIAR-3,3.1",2013,"Smith and Minor Island AR","tot_ne_can",4.800000191
+"62","SIAR-3,3.1",2013,"Smith and Minor Island AR","tot_ne_pl",33.70000076
+"63","SIAR-3,3.2",2013,"Smith and Minor Island AR","tot_ne_can",2.5
+"64","SIAR-3,3.2",2013,"Smith and Minor Island AR","tot_ne_pl",27.70000076
+"65","CIAR-1,1.1",2013,"Cypress Island AR","tot_ne_can",1.399999976
+"66","CIAR-1,1.1",2013,"Cypress Island AR","tot_ne_pl",8.100000381
+"67","CIAR-1,1.2",2013,"Cypress Island AR","tot_ne_can",1.5
+"68","CIAR-1,1.2",2013,"Cypress Island AR","tot_ne_pl",10.39999962
+"69","CIAR-1,1.3",2013,"Cypress Island AR","tot_ne_can",2.700000048
+"70","CIAR-1,1.3",2013,"Cypress Island AR","tot_ne_pl",16.89999962
+"71","CIAR-1,1.4",2013,"Cypress Island AR","tot_ne_can",1.600000024
+"72","CIAR-1,1.4",2013,"Cypress Island AR","tot_ne_pl",7.699999809
+"73","CIAR-1,1.5",2013,"Cypress Island AR","tot_ne_can",0.200000003
+"74","CIAR-1,1.5",2013,"Cypress Island AR","tot_ne_pl",3.599999905
+"75","CIAR-1,1.6",2013,"Cypress Island AR","tot_ne_can",5.5
+"76","CIAR-1,1.6",2013,"Cypress Island AR","tot_ne_pl",16.89999962
+"77","CIAR-1,1.7",2013,"Cypress Island AR","tot_ne_can",0.800000012
+"78","CIAR-1,1.7",2013,"Cypress Island AR","tot_ne_pl",6.699999809
+"79","CIAR-1,1.8",2013,"Cypress Island AR","tot_ne_can",0.300000012
+"80","CIAR-1,1.8",2013,"Cypress Island AR","tot_ne_pl",3.5
+"81","CIAR-1,1.9",2013,"Cypress Island AR","tot_ne_can",0.600000024
+"82","CIAR-1,1.9",2013,"Cypress Island AR","tot_ne_pl",5.400000095
+"83","CPAR-1,1.1",2013,"Cherry Point AR","tot_ne_can",0.100000001
+"84","CPAR-1,1.1",2013,"Cherry Point AR","tot_ne_pl",1.299999952
+"85","CPAR-1,1.2",2013,"Cherry Point AR","tot_ne_can",9.5
+"86","CPAR-1,1.2",2013,"Cherry Point AR","tot_ne_pl",55.70000076
+"87","CPAR-1,1.3",2013,"Cherry Point AR","tot_ne_can",6.5
+"88","CPAR-1,1.3",2013,"Cherry Point AR","tot_ne_pl",42.59999847
+"89","CPAR-1,1.4",2013,"Cherry Point AR","tot_ne_can",1
+"90","CPAR-1,1.4",2013,"Cherry Point AR","tot_ne_pl",13.60000038
+"91","SIAR-1,1.1",2011,"Smith and Minor Island AR","tot_ne_can",0.200000003
+"92","SIAR-1,1.1",2011,"Smith and Minor Island AR","tot_ne_pl",2.900000095
+"93","SIAR-1,1.2",2011,"Smith and Minor Island AR","tot_ne_can",33.79999924
+"94","SIAR-1,1.2",2011,"Smith and Minor Island AR","tot_ne_pl",72.09999847
+"95","SIAR-1,1.3",2011,"Smith and Minor Island AR","tot_ne_can",0.400000006
+"96","SIAR-1,1.3",2011,"Smith and Minor Island AR","tot_ne_pl",4.400000095
+"97","SIAR-1,1.4",2011,"Smith and Minor Island AR","tot_ne_can",0
+"98","SIAR-1,1.4",2011,"Smith and Minor Island AR","tot_ne_pl",0
+"99","SIAR-2,2.1",2011,"Smith and Minor Island AR","tot_ne_can",13.19999981
+"100","SIAR-2,2.1",2011,"Smith and Minor Island AR","tot_ne_pl",64.19999695
+"101","SIAR-2,2.2",2011,"Smith and Minor Island AR","tot_ne_can",7.800000191
+"102","SIAR-2,2.2",2011,"Smith and Minor Island AR","tot_ne_pl",35.09999847
+"103","SIAR-3,3.1",2011,"Smith and Minor Island AR","tot_ne_can",5.099999905
+"104","SIAR-3,3.1",2011,"Smith and Minor Island AR","tot_ne_pl",24.39999962
+"105","SIAR-3,3.2",2011,"Smith and Minor Island AR","tot_ne_can",4.699999809
+"106","SIAR-3,3.2",2011,"Smith and Minor Island AR","tot_ne_pl",34.09999847
+"107","CIAR-1,1.1",2011,"Cypress Island AR","tot_ne_can",2.700000048
+"108","CIAR-1,1.1",2011,"Cypress Island AR","tot_ne_pl",10.80000019
+"109","CIAR-1,1.2",2011,"Cypress Island AR","tot_ne_can",1.799999952
+"110","CIAR-1,1.2",2011,"Cypress Island AR","tot_ne_pl",11.30000019
+"111","CIAR-1,1.3",2011,"Cypress Island AR","tot_ne_can",2.400000095
+"112","CIAR-1,1.3",2011,"Cypress Island AR","tot_ne_pl",13.69999981
+"113","CIAR-1,1.4",2011,"Cypress Island AR","tot_ne_can",1.100000024
+"114","CIAR-1,1.4",2011,"Cypress Island AR","tot_ne_pl",7.400000095
+"115","CIAR-1,1.5",2011,"Cypress Island AR","tot_ne_can",0
+"116","CIAR-1,1.5",2011,"Cypress Island AR","tot_ne_pl",0.800000012
+"117","CIAR-1,1.6",2011,"Cypress Island AR","tot_ne_can",4.699999809
+"118","CIAR-1,1.6",2011,"Cypress Island AR","tot_ne_pl",16.79999924
+"119","CIAR-1,1.7",2011,"Cypress Island AR","tot_ne_can",0.600000024
+"120","CIAR-1,1.7",2011,"Cypress Island AR","tot_ne_pl",5.900000095
+"121","CIAR-1,1.8",2011,"Cypress Island AR","tot_ne_can",0.800000012
+"122","CIAR-1,1.8",2011,"Cypress Island AR","tot_ne_pl",5.400000095
+"123","CIAR-1,1.9",2011,"Cypress Island AR","tot_ne_can",0.5
+"124","CIAR-1,1.9",2011,"Cypress Island AR","tot_ne_pl",3.200000048
+"125","CPAR-1,1.1",2011,"Cherry Point AR","tot_ne_can",0.200000003
+"126","CPAR-1,1.1",2011,"Cherry Point AR","tot_ne_pl",1.700000048
+"127","CPAR-1,1.2",2011,"Cherry Point AR","tot_ne_can",6.199999809
+"128","CPAR-1,1.2",2011,"Cherry Point AR","tot_ne_pl",49.90000153
+"129","CPAR-1,1.3",2011,"Cherry Point AR","tot_ne_can",3.099999905
+"130","CPAR-1,1.3",2011,"Cherry Point AR","tot_ne_pl",30.29999924
+"131","CPAR-1,1.4",2011,"Cherry Point AR","tot_ne_can",2.5
+"132","CPAR-1,1.4",2011,"Cherry Point AR","tot_ne_pl",19.79999924
+"133","SIAR-1,1.1",2014,"Smith and Minor Island AR","tot_ne_can",0
+"134","SIAR-1,1.1",2014,"Smith and Minor Island AR","tot_ne_pl",0
+"135","SIAR-1,1.2",2014,"Smith and Minor Island AR","tot_ne_can",22.20000076
+"136","SIAR-1,1.2",2014,"Smith and Minor Island AR","tot_ne_pl",61.29999924
+"137","SIAR-1,1.3",2014,"Smith and Minor Island AR","tot_ne_can",0.100000001
+"138","SIAR-1,1.3",2014,"Smith and Minor Island AR","tot_ne_pl",2.5
+"139","SIAR-1,1.4",2014,"Smith and Minor Island AR","tot_ne_can",0
+"140","SIAR-1,1.4",2014,"Smith and Minor Island AR","tot_ne_pl",0
+"141","SIAR-2,2.1",2014,"Smith and Minor Island AR","tot_ne_can",5.400000095
+"142","SIAR-2,2.1",2014,"Smith and Minor Island AR","tot_ne_pl",40.70000076
+"143","SIAR-2,2.2",2014,"Smith and Minor Island AR","tot_ne_can",4.300000191
+"144","SIAR-2,2.2",2014,"Smith and Minor Island AR","tot_ne_pl",26.29999924
+"145","SIAR-3,3.1",2014,"Smith and Minor Island AR","tot_ne_can",3.5
+"146","SIAR-3,3.1",2014,"Smith and Minor Island AR","tot_ne_pl",25.79999924
+"147","SIAR-3,3.2",2014,"Smith and Minor Island AR","tot_ne_can",2
+"148","SIAR-3,3.2",2014,"Smith and Minor Island AR","tot_ne_pl",31.5
+"149","CIAR-1,1.1",2014,"Cypress Island AR","tot_ne_can",1.200000048
+"150","CIAR-1,1.1",2014,"Cypress Island AR","tot_ne_pl",7.599999905
+"151","CIAR-1,1.2",2014,"Cypress Island AR","tot_ne_can",1.200000048
+"152","CIAR-1,1.2",2014,"Cypress Island AR","tot_ne_pl",9.100000381
+"153","CIAR-1,1.3",2014,"Cypress Island AR","tot_ne_can",1.299999952
+"154","CIAR-1,1.3",2014,"Cypress Island AR","tot_ne_pl",12.10000038
+"155","CIAR-1,1.4",2014,"Cypress Island AR","tot_ne_can",0.899999976
+"156","CIAR-1,1.4",2014,"Cypress Island AR","tot_ne_pl",7.800000191
+"157","CIAR-1,1.5",2014,"Cypress Island AR","tot_ne_can",0
+"158","CIAR-1,1.5",2014,"Cypress Island AR","tot_ne_pl",0
+"159","CIAR-1,1.6",2014,"Cypress Island AR","tot_ne_can",3.799999952
+"160","CIAR-1,1.6",2014,"Cypress Island AR","tot_ne_pl",11.10000038
+"161","CIAR-1,1.7",2014,"Cypress Island AR","tot_ne_can",0.400000006
+"162","CIAR-1,1.7",2014,"Cypress Island AR","tot_ne_pl",4.800000191
+"163","CIAR-1,1.8",2014,"Cypress Island AR","tot_ne_can",0.600000024
+"164","CIAR-1,1.8",2014,"Cypress Island AR","tot_ne_pl",5.699999809
+"165","CIAR-1,1.9",2014,"Cypress Island AR","tot_ne_can",0.5
+"166","CIAR-1,1.9",2014,"Cypress Island AR","tot_ne_pl",4.400000095
+"167","CPAR-1,1.1",2014,"Cherry Point AR","tot_ne_can",0
+"168","CPAR-1,1.1",2014,"Cherry Point AR","tot_ne_pl",0
+"169","CPAR-1,1.2",2014,"Cherry Point AR","tot_ne_can",3.400000095
+"170","CPAR-1,1.2",2014,"Cherry Point AR","tot_ne_pl",34.5
+"171","CPAR-1,1.3",2014,"Cherry Point AR","tot_ne_can",2.099999905
+"172","CPAR-1,1.3",2014,"Cherry Point AR","tot_ne_pl",24
+"173","CPAR-1,1.4",2014,"Cherry Point AR","tot_ne_can",0.600000024
+"174","CPAR-1,1.4",2014,"Cherry Point AR","tot_ne_pl",7.5
+"175","SIAR-1,1.1",2015,"Smith and Minor Island AR","tot_ne_can",0
+"176","SIAR-1,1.1",2015,"Smith and Minor Island AR","tot_ne_pl",0
+"177","SIAR-1,1.2",2015,"Smith and Minor Island AR","tot_ne_can",29.5
+"178","SIAR-1,1.2",2015,"Smith and Minor Island AR","tot_ne_pl",65.69999695
+"179","SIAR-1,1.3",2015,"Smith and Minor Island AR","tot_ne_can",0.100000001
+"180","SIAR-1,1.3",2015,"Smith and Minor Island AR","tot_ne_pl",1.100000024
+"181","SIAR-1,1.4",2015,"Smith and Minor Island AR","tot_ne_can",0
+"182","SIAR-1,1.4",2015,"Smith and Minor Island AR","tot_ne_pl",0
+"183","SIAR-2,2.1",2015,"Smith and Minor Island AR","tot_ne_can",6.199999809
+"184","SIAR-2,2.1",2015,"Smith and Minor Island AR","tot_ne_pl",40.59999847
+"185","SIAR-2,2.2",2015,"Smith and Minor Island AR","tot_ne_can",5.099999905
+"186","SIAR-2,2.2",2015,"Smith and Minor Island AR","tot_ne_pl",24.70000076
+"187","SIAR-3,3.1",2015,"Smith and Minor Island AR","tot_ne_can",3.700000048
+"188","SIAR-3,3.1",2015,"Smith and Minor Island AR","tot_ne_pl",18.70000076
+"189","SIAR-3,3.2",2015,"Smith and Minor Island AR","tot_ne_can",2.900000095
+"190","SIAR-3,3.2",2015,"Smith and Minor Island AR","tot_ne_pl",23.20000076
+"191","CIAR-1,1.1",2015,"Cypress Island AR","tot_ne_can",0.899999976
+"192","CIAR-1,1.1",2015,"Cypress Island AR","tot_ne_pl",7.199999809
+"193","CIAR-1,1.2",2015,"Cypress Island AR","tot_ne_can",0.800000012
+"194","CIAR-1,1.2",2015,"Cypress Island AR","tot_ne_pl",8.100000381
+"195","CIAR-1,1.3",2015,"Cypress Island AR","tot_ne_can",0.899999976
+"196","CIAR-1,1.3",2015,"Cypress Island AR","tot_ne_pl",9.899999619
+"197","CIAR-1,1.4",2015,"Cypress Island AR","tot_ne_can",0.600000024
+"198","CIAR-1,1.4",2015,"Cypress Island AR","tot_ne_pl",6.400000095
+"199","CIAR-1,1.5",2015,"Cypress Island AR","tot_ne_can",0
+"200","CIAR-1,1.5",2015,"Cypress Island AR","tot_ne_pl",0
+"201","CIAR-1,1.6",2015,"Cypress Island AR","tot_ne_can",5
+"202","CIAR-1,1.6",2015,"Cypress Island AR","tot_ne_pl",12
+"203","CIAR-1,1.7",2015,"Cypress Island AR","tot_ne_can",0.300000012
+"204","CIAR-1,1.7",2015,"Cypress Island AR","tot_ne_pl",3.299999952
+"205","CIAR-1,1.8",2015,"Cypress Island AR","tot_ne_can",0.300000012
+"206","CIAR-1,1.8",2015,"Cypress Island AR","tot_ne_pl",3.599999905
+"207","CIAR-1,1.9",2015,"Cypress Island AR","tot_ne_can",0.5
+"208","CIAR-1,1.9",2015,"Cypress Island AR","tot_ne_pl",4.099999905
+"209","CPAR-1,1.1",2015,"Cherry Point AR","tot_ne_can",0
+"210","CPAR-1,1.1",2015,"Cherry Point AR","tot_ne_pl",0
+"211","CPAR-1,1.2",2015,"Cherry Point AR","tot_ne_can",1.5
+"212","CPAR-1,1.2",2015,"Cherry Point AR","tot_ne_pl",17.79999924
+"213","CPAR-1,1.3",2015,"Cherry Point AR","tot_ne_can",0.699999988
+"214","CPAR-1,1.3",2015,"Cherry Point AR","tot_ne_pl",13
+"215","CPAR-1,1.4",2015,"Cherry Point AR","tot_ne_can",0.100000001
+"216","CPAR-1,1.4",2015,"Cherry Point AR","tot_ne_pl",2.299999952
+"217","SIAR-1,1.1",2016,"Smith and Minor Island AR","tot_ne_can",0.100000001
+"218","SIAR-1,1.1",2016,"Smith and Minor Island AR","tot_ne_pl",2.400000095
+"219","SIAR-1,1.2",2016,"Smith and Minor Island AR","tot_ne_can",31.10000038
+"220","SIAR-1,1.2",2016,"Smith and Minor Island AR","tot_ne_pl",75
+"221","SIAR-1,1.3",2016,"Smith and Minor Island AR","tot_ne_can",0.5
+"222","SIAR-1,1.3",2016,"Smith and Minor Island AR","tot_ne_pl",4.300000191
+"223","SIAR-1,1.4",2016,"Smith and Minor Island AR","tot_ne_can",1.299999952
+"224","SIAR-1,1.4",2016,"Smith and Minor Island AR","tot_ne_pl",10.60000038
+"225","SIAR-2,2.1",2016,"Smith and Minor Island AR","tot_ne_can",15.60000038
+"226","SIAR-2,2.1",2016,"Smith and Minor Island AR","tot_ne_pl",71.09999847
+"227","SIAR-2,2.2",2016,"Smith and Minor Island AR","tot_ne_can",11.5
+"228","SIAR-2,2.2",2016,"Smith and Minor Island AR","tot_ne_pl",47.20000076
+"229","SIAR-3,3.1",2016,"Smith and Minor Island AR","tot_ne_can",26.20000076
+"230","SIAR-3,3.1",2016,"Smith and Minor Island AR","tot_ne_pl",72
+"231","SIAR-3,3.2",2016,"Smith and Minor Island AR","tot_ne_can",15.80000019
+"232","SIAR-3,3.2",2016,"Smith and Minor Island AR","tot_ne_pl",68.30000305
+"233","CIAR-1,1.1",2016,"Cypress Island AR","tot_ne_can",0.800000012
+"234","CIAR-1,1.1",2016,"Cypress Island AR","tot_ne_pl",6.300000191
+"235","CIAR-1,1.2",2016,"Cypress Island AR","tot_ne_can",0.800000012
+"236","CIAR-1,1.2",2016,"Cypress Island AR","tot_ne_pl",9.100000381
+"237","CIAR-1,1.3",2016,"Cypress Island AR","tot_ne_can",1.399999976
+"238","CIAR-1,1.3",2016,"Cypress Island AR","tot_ne_pl",13.10000038
+"239","CIAR-1,1.4",2016,"Cypress Island AR","tot_ne_can",0.5
+"240","CIAR-1,1.4",2016,"Cypress Island AR","tot_ne_pl",6
+"241","CIAR-1,1.5",2016,"Cypress Island AR","tot_ne_can",0
+"242","CIAR-1,1.5",2016,"Cypress Island AR","tot_ne_pl",0
+"243","CIAR-1,1.6",2016,"Cypress Island AR","tot_ne_can",7.300000191
+"244","CIAR-1,1.6",2016,"Cypress Island AR","tot_ne_pl",19.5
+"245","CIAR-1,1.7",2016,"Cypress Island AR","tot_ne_can",0.5
+"246","CIAR-1,1.7",2016,"Cypress Island AR","tot_ne_pl",3.400000095
+"247","CIAR-1,1.8",2016,"Cypress Island AR","tot_ne_can",0.800000012
+"248","CIAR-1,1.8",2016,"Cypress Island AR","tot_ne_pl",6.400000095
+"249","CIAR-1,1.9",2016,"Cypress Island AR","tot_ne_can",0.200000003
+"250","CIAR-1,1.9",2016,"Cypress Island AR","tot_ne_pl",2.900000095
+"251","CPAR-1,1.1",2016,"Cherry Point AR","tot_ne_can",0
+"252","CPAR-1,1.1",2016,"Cherry Point AR","tot_ne_pl",0
+"253","CPAR-1,1.2",2016,"Cherry Point AR","tot_ne_can",2.099999905
+"254","CPAR-1,1.2",2016,"Cherry Point AR","tot_ne_pl",22.60000038
+"255","CPAR-1,1.3",2016,"Cherry Point AR","tot_ne_can",0.600000024
+"256","CPAR-1,1.3",2016,"Cherry Point AR","tot_ne_pl",9.899999619
+"257","CPAR-1,1.4",2016,"Cherry Point AR","tot_ne_can",0.200000003
+"258","CPAR-1,1.4",2016,"Cherry Point AR","tot_ne_pl",3.900000095
+"259","SIAR-1,1.1",2017,"Smith and Minor Island AR","tot_ne_can",0.2081
+"260","SIAR-1,1.1",2017,"Smith and Minor Island AR","tot_ne_pl",2.24257
+"261","SIAR-1,1.2",2017,"Smith and Minor Island AR","tot_ne_can",45.2267
+"262","SIAR-1,1.2",2017,"Smith and Minor Island AR","tot_ne_pl",91.103195
+"263","SIAR-1,1.3",2017,"Smith and Minor Island AR","tot_ne_can",3.6707
+"264","SIAR-1,1.3",2017,"Smith and Minor Island AR","tot_ne_pl",13.065825
+"265","SIAR-1,1.4",2017,"Smith and Minor Island AR","tot_ne_can",2.8118
+"266","SIAR-1,1.4",2017,"Smith and Minor Island AR","tot_ne_pl",21.39875
+"267","SIAR-2,2.1",2017,"Smith and Minor Island AR","tot_ne_can",12.4715
+"268","SIAR-2,2.1",2017,"Smith and Minor Island AR","tot_ne_pl",57.825265
+"269","SIAR-2,2.2",2017,"Smith and Minor Island AR","tot_ne_can",10.0506
+"270","SIAR-2,2.2",2017,"Smith and Minor Island AR","tot_ne_pl",40.247035
+"271","SIAR-3,3.1",2017,"Smith and Minor Island AR","tot_ne_can",22.1048
+"272","SIAR-3,3.1",2017,"Smith and Minor Island AR","tot_ne_pl",52.14702
+"273","SIAR-3,3.2",2017,"Smith and Minor Island AR","tot_ne_can",14.6298
+"274","SIAR-3,3.2",2017,"Smith and Minor Island AR","tot_ne_pl",56.811995
+"275","CIAR-1,1.1",2017,"Cypress Island AR","tot_ne_can",1.072
+"276","CIAR-1,1.1",2017,"Cypress Island AR","tot_ne_pl",6.569535
+"277","CIAR-1,1.2",2017,"Cypress Island AR","tot_ne_can",1.0499
+"278","CIAR-1,1.2",2017,"Cypress Island AR","tot_ne_pl",9.48252
+"279","CIAR-1,1.3",2017,"Cypress Island AR","tot_ne_can",1.9351
+"280","CIAR-1,1.3",2017,"Cypress Island AR","tot_ne_pl",12.04714
+"281","CIAR-1,1.4",2017,"Cypress Island AR","tot_ne_can",0.6279
+"282","CIAR-1,1.4",2017,"Cypress Island AR","tot_ne_pl",6.28083
+"283","CIAR-1,1.5",2017,"Cypress Island AR","tot_ne_can",0
+"284","CIAR-1,1.5",2017,"Cypress Island AR","tot_ne_pl",0
+"285","CIAR-1,1.6",2017,"Cypress Island AR","tot_ne_can",7.5432
+"286","CIAR-1,1.6",2017,"Cypress Island AR","tot_ne_pl",17.66354
+"287","CIAR-1,1.7",2017,"Cypress Island AR","tot_ne_can",0.385
+"288","CIAR-1,1.7",2017,"Cypress Island AR","tot_ne_pl",3.59993
+"289","CIAR-1,1.8",2017,"Cypress Island AR","tot_ne_can",0.6547
+"290","CIAR-1,1.8",2017,"Cypress Island AR","tot_ne_pl",5.728595
+"291","CIAR-1,1.9",2017,"Cypress Island AR","tot_ne_can",0.2348
+"292","CIAR-1,1.9",2017,"Cypress Island AR","tot_ne_pl",3.25052
+"293","CPAR-1,1.1",2017,"Cherry Point AR","tot_ne_can",0.0921
+"294","CPAR-1,1.1",2017,"Cherry Point AR","tot_ne_pl",1.50043
+"295","CPAR-1,1.2",2017,"Cherry Point AR","tot_ne_can",16.339
+"296","CPAR-1,1.2",2017,"Cherry Point AR","tot_ne_pl",50.043055
+"297","CPAR-1,1.3",2017,"Cherry Point AR","tot_ne_can",8.6586
+"298","CPAR-1,1.3",2017,"Cherry Point AR","tot_ne_pl",33.92355
+"299","CPAR-1,1.4",2017,"Cherry Point AR","tot_ne_can",0.1854
+"300","CPAR-1,1.4",2017,"Cherry Point AR","tot_ne_pl",3.11695
+"301","SIAR-1,1.1",2018,"Smith and Minor Island AR","tot_ne_can",0.3
+"302","SIAR-1,1.1",2018,"Smith and Minor Island AR","tot_ne_pl",3.9
+"303","SIAR-1,1.2",2018,"Smith and Minor Island AR","tot_ne_can",52.1
+"304","SIAR-1,1.2",2018,"Smith and Minor Island AR","tot_ne_pl",109.358395
+"305","SIAR-1,1.3",2018,"Smith and Minor Island AR","tot_ne_can",0.9
+"306","SIAR-1,1.3",2018,"Smith and Minor Island AR","tot_ne_pl",5.43647
+"307","SIAR-1,1.4",2018,"Smith and Minor Island AR","tot_ne_can",12.1
+"308","SIAR-1,1.4",2018,"Smith and Minor Island AR","tot_ne_pl",39.268915
+"309","SIAR-2,2.1",2018,"Smith and Minor Island AR","tot_ne_can",14.1
+"310","SIAR-2,2.1",2018,"Smith and Minor Island AR","tot_ne_pl",64.508515
+"311","SIAR-2,2.2",2018,"Smith and Minor Island AR","tot_ne_can",14.4
+"312","SIAR-2,2.2",2018,"Smith and Minor Island AR","tot_ne_pl",55.33655
+"313","SIAR-3,3.1",2018,"Smith and Minor Island AR","tot_ne_can",21.6
+"314","SIAR-3,3.1",2018,"Smith and Minor Island AR","tot_ne_pl",56.780075
+"315","SIAR-3,3.2",2018,"Smith and Minor Island AR","tot_ne_can",13.9
+"316","SIAR-3,3.2",2018,"Smith and Minor Island AR","tot_ne_pl",62.937215
+"317","CIAR-1,1.1",2018,"Cypress Island AR","tot_ne_can",2.1
+"318","CIAR-1,1.1",2018,"Cypress Island AR","tot_ne_pl",8.548195
+"319","CIAR-1,1.2",2018,"Cypress Island AR","tot_ne_can",1
+"320","CIAR-1,1.2",2018,"Cypress Island AR","tot_ne_pl",7.12804
+"321","CIAR-1,1.3",2018,"Cypress Island AR","tot_ne_can",2.3
+"322","CIAR-1,1.3",2018,"Cypress Island AR","tot_ne_pl",13.20177
+"323","CIAR-1,1.4",2018,"Cypress Island AR","tot_ne_can",0.8
+"324","CIAR-1,1.4",2018,"Cypress Island AR","tot_ne_pl",5.389065
+"325","CIAR-1,1.5",2018,"Cypress Island AR","tot_ne_can",0.1
+"326","CIAR-1,1.5",2018,"Cypress Island AR","tot_ne_pl",1.94788
+"327","CIAR-1,1.6",2018,"Cypress Island AR","tot_ne_can",6.1
+"328","CIAR-1,1.6",2018,"Cypress Island AR","tot_ne_pl",13.959585
+"329","CIAR-1,1.7",2018,"Cypress Island AR","tot_ne_can",0.5
+"330","CIAR-1,1.7",2018,"Cypress Island AR","tot_ne_pl",3.197225
+"331","CIAR-1,1.8",2018,"Cypress Island AR","tot_ne_can",0.6
+"332","CIAR-1,1.8",2018,"Cypress Island AR","tot_ne_pl",5.455755
+"333","CIAR-1,1.9",2018,"Cypress Island AR","tot_ne_can",0.4
+"334","CIAR-1,1.9",2018,"Cypress Island AR","tot_ne_pl",3.08522
+"335","CPAR-1,1.1",2018,"Cherry Point AR","tot_ne_can",0
+"336","CPAR-1,1.1",2018,"Cherry Point AR","tot_ne_pl",0
+"337","CPAR-1,1.2",2018,"Cherry Point AR","tot_ne_can",14.7
+"338","CPAR-1,1.2",2018,"Cherry Point AR","tot_ne_pl",44.967775
+"339","CPAR-1,1.3",2018,"Cherry Point AR","tot_ne_can",14.6
+"340","CPAR-1,1.3",2018,"Cherry Point AR","tot_ne_pl",43.72432
+"341","CPAR-1,1.4",2018,"Cherry Point AR","tot_ne_can",0.6
+"342","CPAR-1,1.4",2018,"Cherry Point AR","tot_ne_pl",5.03785
+"343","SIAR-1,1.1",2019,"Smith and Minor Island AR","tot_ne_can",0.7
+"344","SIAR-1,1.1",2019,"Smith and Minor Island AR","tot_ne_pl",6.2
+"345","SIAR-1,1.2",2019,"Smith and Minor Island AR","tot_ne_can",56.8
+"346","SIAR-1,1.2",2019,"Smith and Minor Island AR","tot_ne_pl",122.7
+"347","SIAR-1,1.3",2019,"Smith and Minor Island AR","tot_ne_can",1
+"348","SIAR-1,1.3",2019,"Smith and Minor Island AR","tot_ne_pl",10.9
+"349","SIAR-1,1.4",2019,"Smith and Minor Island AR","tot_ne_can",6
+"350","SIAR-1,1.4",2019,"Smith and Minor Island AR","tot_ne_pl",28.3
+"351","SIAR-2,2.1",2019,"Smith and Minor Island AR","tot_ne_can",15.5
+"352","SIAR-2,2.1",2019,"Smith and Minor Island AR","tot_ne_pl",61.5
+"353","SIAR-2,2.2",2019,"Smith and Minor Island AR","tot_ne_can",8
+"354","SIAR-2,2.2",2019,"Smith and Minor Island AR","tot_ne_pl",43.3
+"355","SIAR-3,3.1",2019,"Smith and Minor Island AR","tot_ne_can",31
+"356","SIAR-3,3.1",2019,"Smith and Minor Island AR","tot_ne_pl",69.1
+"357","SIAR-3,3.2",2019,"Smith and Minor Island AR","tot_ne_can",16.1
+"358","SIAR-3,3.2",2019,"Smith and Minor Island AR","tot_ne_pl",57.3
+"359","CIAR-1,1.1",2019,"Cypress Island AR","tot_ne_can",1.8
+"360","CIAR-1,1.1",2019,"Cypress Island AR","tot_ne_pl",8.7
+"361","CIAR-1,1.2",2019,"Cypress Island AR","tot_ne_can",0.9
+"362","CIAR-1,1.2",2019,"Cypress Island AR","tot_ne_pl",7.2
+"363","CIAR-1,1.3",2019,"Cypress Island AR","tot_ne_can",1.8
+"364","CIAR-1,1.3",2019,"Cypress Island AR","tot_ne_pl",12.1
+"365","CIAR-1,1.4",2019,"Cypress Island AR","tot_ne_can",1
+"366","CIAR-1,1.4",2019,"Cypress Island AR","tot_ne_pl",6.9
+"367","CIAR-1,1.5",2019,"Cypress Island AR","tot_ne_can",0.1
+"368","CIAR-1,1.5",2019,"Cypress Island AR","tot_ne_pl",1.5
+"369","CIAR-1,1.6",2019,"Cypress Island AR","tot_ne_can",5
+"370","CIAR-1,1.6",2019,"Cypress Island AR","tot_ne_pl",13.9
+"371","CIAR-1,1.7",2019,"Cypress Island AR","tot_ne_can",0.4
+"372","CIAR-1,1.7",2019,"Cypress Island AR","tot_ne_pl",4.5
+"373","CIAR-1,1.8",2019,"Cypress Island AR","tot_ne_can",0.5
+"374","CIAR-1,1.8",2019,"Cypress Island AR","tot_ne_pl",4.5
+"375","CIAR-1,1.9",2019,"Cypress Island AR","tot_ne_can",0.4
+"376","CIAR-1,1.9",2019,"Cypress Island AR","tot_ne_pl",2.5
+"377","CPAR-1,1.1",2019,"Cherry Point AR","tot_ne_can",0.2
+"378","CPAR-1,1.1",2019,"Cherry Point AR","tot_ne_pl",2
+"379","CPAR-1,1.2",2019,"Cherry Point AR","tot_ne_can",15.9
+"380","CPAR-1,1.2",2019,"Cherry Point AR","tot_ne_pl",55.9
+"381","CPAR-1,1.3",2019,"Cherry Point AR","tot_ne_can",7.4
+"382","CPAR-1,1.3",2019,"Cherry Point AR","tot_ne_pl",35.9
+"383","CPAR-1,1.4",2019,"Cherry Point AR","tot_ne_can",1
+"384","CPAR-1,1.4",2019,"Cherry Point AR","tot_ne_pl",9.3
+"385","SIAR-1,1.1",2020,"Smith and Minor Island AR","tot_ne_can",1.9
+"386","SIAR-1,1.1",2020,"Smith and Minor Island AR","tot_ne_pl",7.3
+"387","SIAR-1,1.2",2020,"Smith and Minor Island AR","tot_ne_can",89.3
+"388","SIAR-1,1.2",2020,"Smith and Minor Island AR","tot_ne_pl",166.6
+"389","SIAR-1,1.3",2020,"Smith and Minor Island AR","tot_ne_can",1.9
+"390","SIAR-1,1.3",2020,"Smith and Minor Island AR","tot_ne_pl",13.5
+"391","SIAR-1,1.4",2020,"Smith and Minor Island AR","tot_ne_can",16
+"392","SIAR-1,1.4",2020,"Smith and Minor Island AR","tot_ne_pl",54.8
+"393","SIAR-2,2.1",2020,"Smith and Minor Island AR","tot_ne_can",28.6
+"394","SIAR-2,2.1",2020,"Smith and Minor Island AR","tot_ne_pl",83.4
+"395","SIAR-2,2.2",2020,"Smith and Minor Island AR","tot_ne_can",24.7
+"396","SIAR-2,2.2",2020,"Smith and Minor Island AR","tot_ne_pl",84.9
+"397","SIAR-3,3.1",2020,"Smith and Minor Island AR","tot_ne_can",42.2
+"398","SIAR-3,3.1",2020,"Smith and Minor Island AR","tot_ne_pl",93.7
+"399","SIAR-3,3.2",2020,"Smith and Minor Island AR","tot_ne_can",24.7
+"400","SIAR-3,3.2",2020,"Smith and Minor Island AR","tot_ne_pl",71.2
+"401","CIAR-1,1.1",2020,"Cypress Island AR","tot_ne_can",2
+"402","CIAR-1,1.1",2020,"Cypress Island AR","tot_ne_pl",9.2
+"403","CIAR-1,1.2",2020,"Cypress Island AR","tot_ne_can",1
+"404","CIAR-1,1.2",2020,"Cypress Island AR","tot_ne_pl",6.1
+"405","CIAR-1,1.3",2020,"Cypress Island AR","tot_ne_can",1.3
+"406","CIAR-1,1.3",2020,"Cypress Island AR","tot_ne_pl",10.5
+"407","CIAR-1,1.4",2020,"Cypress Island AR","tot_ne_can",0.6
+"408","CIAR-1,1.4",2020,"Cypress Island AR","tot_ne_pl",6.2
+"409","CIAR-1,1.5",2020,"Cypress Island AR","tot_ne_can",0.1
+"410","CIAR-1,1.5",2020,"Cypress Island AR","tot_ne_pl",1.8
+"411","CIAR-1,1.6",2020,"Cypress Island AR","tot_ne_can",5.7
+"412","CIAR-1,1.6",2020,"Cypress Island AR","tot_ne_pl",14.6
+"413","CIAR-1,1.7",2020,"Cypress Island AR","tot_ne_can",0.2
+"414","CIAR-1,1.7",2020,"Cypress Island AR","tot_ne_pl",3
+"415","CIAR-1,1.8",2020,"Cypress Island AR","tot_ne_can",0.3
+"416","CIAR-1,1.8",2020,"Cypress Island AR","tot_ne_pl",3.1
+"417","CIAR-1,1.9",2020,"Cypress Island AR","tot_ne_can",0.5
+"418","CIAR-1,1.9",2020,"Cypress Island AR","tot_ne_pl",3.7
+"419","CPAR-1,1.1",2020,"Cherry Point AR","tot_ne_can",0.2
+"420","CPAR-1,1.1",2020,"Cherry Point AR","tot_ne_pl",1.8
+"421","CPAR-1,1.2",2020,"Cherry Point AR","tot_ne_can",8.7
+"422","CPAR-1,1.2",2020,"Cherry Point AR","tot_ne_pl",38.8
+"423","CPAR-1,1.3",2020,"Cherry Point AR","tot_ne_can",5.3
+"424","CPAR-1,1.3",2020,"Cherry Point AR","tot_ne_pl",27.8
+"425","CPAR-1,1.4",2020,"Cherry Point AR","tot_ne_can",1.5
+"426","CPAR-1,1.4",2020,"Cherry Point AR","tot_ne_pl",10.8
+"427","SIAR-1,1.1",2021,"Smith and Minor Island AR","tot_ne_can",1.8
+"428","SIAR-1,1.1",2021,"Smith and Minor Island AR","tot_ne_pl",11.2
+"429","SIAR-1,1.2",2021,"Smith and Minor Island AR","tot_ne_can",139.4
+"430","SIAR-1,1.2",2021,"Smith and Minor Island AR","tot_ne_pl",304.7
+"431","SIAR-1,1.3",2021,"Smith and Minor Island AR","tot_ne_can",4.3
+"432","SIAR-1,1.3",2021,"Smith and Minor Island AR","tot_ne_pl",20.8
+"433","SIAR-1,1.4",2021,"Smith and Minor Island AR","tot_ne_can",65.6
+"434","SIAR-1,1.4",2021,"Smith and Minor Island AR","tot_ne_pl",143
+"435","SIAR-2,2.1",2021,"Smith and Minor Island AR","tot_ne_can",39.6
+"436","SIAR-2,2.1",2021,"Smith and Minor Island AR","tot_ne_pl",97.7
+"437","SIAR-2,2.2",2021,"Smith and Minor Island AR","tot_ne_can",35.5
+"438","SIAR-2,2.2",2021,"Smith and Minor Island AR","tot_ne_pl",96
+"439","SIAR-3,3.1",2021,"Smith and Minor Island AR","tot_ne_can",54.8
+"440","SIAR-3,3.1",2021,"Smith and Minor Island AR","tot_ne_pl",98.3
+"441","SIAR-3,3.2",2021,"Smith and Minor Island AR","tot_ne_can",41.4
+"442","SIAR-3,3.2",2021,"Smith and Minor Island AR","tot_ne_pl",84
+"443","CIAR-1,1.1",2021,"Cypress Island AR","tot_ne_can",2.7
+"444","CIAR-1,1.1",2021,"Cypress Island AR","tot_ne_pl",10.4
+"445","CIAR-1,1.2",2021,"Cypress Island AR","tot_ne_can",0.8
+"446","CIAR-1,1.2",2021,"Cypress Island AR","tot_ne_pl",7.1
+"447","CIAR-1,1.3",2021,"Cypress Island AR","tot_ne_can",1.8
+"448","CIAR-1,1.3",2021,"Cypress Island AR","tot_ne_pl",12.7
+"449","CIAR-1,1.4",2021,"Cypress Island AR","tot_ne_can",0.9
+"450","CIAR-1,1.4",2021,"Cypress Island AR","tot_ne_pl",7
+"451","CIAR-1,1.5",2021,"Cypress Island AR","tot_ne_can",0.1
+"452","CIAR-1,1.5",2021,"Cypress Island AR","tot_ne_pl",4
+"453","CIAR-1,1.6",2021,"Cypress Island AR","tot_ne_can",6.6
+"454","CIAR-1,1.6",2021,"Cypress Island AR","tot_ne_pl",16.1
+"455","CIAR-1,1.7",2021,"Cypress Island AR","tot_ne_can",0.2
+"456","CIAR-1,1.7",2021,"Cypress Island AR","tot_ne_pl",3.8
+"457","CIAR-1,1.8",2021,"Cypress Island AR","tot_ne_can",0.4
+"458","CIAR-1,1.8",2021,"Cypress Island AR","tot_ne_pl",5.1
+"459","CIAR-1,1.9",2021,"Cypress Island AR","tot_ne_can",0.6
+"460","CIAR-1,1.9",2021,"Cypress Island AR","tot_ne_pl",5.5
+"461","CPAR-1,1.1",2021,"Cherry Point AR","tot_ne_can",0.4
+"462","CPAR-1,1.1",2021,"Cherry Point AR","tot_ne_pl",2.6
+"463","CPAR-1,1.2",2021,"Cherry Point AR","tot_ne_can",14.7
+"464","CPAR-1,1.2",2021,"Cherry Point AR","tot_ne_pl",52.5
+"465","CPAR-1,1.3",2021,"Cherry Point AR","tot_ne_can",9.4
+"466","CPAR-1,1.3",2021,"Cherry Point AR","tot_ne_pl",35.9
+"467","CPAR-1,1.4",2021,"Cherry Point AR","tot_ne_can",2.7
+"468","CPAR-1,1.4",2021,"Cherry Point AR","tot_ne_pl",14.8
