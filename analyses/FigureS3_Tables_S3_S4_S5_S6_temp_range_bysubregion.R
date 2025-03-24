@@ -274,6 +274,9 @@ jpeg(filename="figures/FigureS3_SST_byregion.jpeg",width=14,height=14,units="in"
 p_CherryPoint_all + p_CypressIsland_all + p_SmithMinor_all +  p_EStrait_all + p_WStrait_all + p_Coast_all +   plot_layout(nrow=6)
 dev.off()
 
+pdf(file="figures/FigureS3_SST_byregion.pdf",width=14,height=14,)
+p_CherryPoint_all + p_CypressIsland_all + p_SmithMinor_all +  p_EStrait_all + p_WStrait_all + p_Coast_all +   plot_layout(nrow=6)
+dev.off()
 ##############
 
 # Table S3 - For representative zones
