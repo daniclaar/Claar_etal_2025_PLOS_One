@@ -141,7 +141,10 @@ p5 <- kelpca_tempfp %>%
   group_by(Year,region) %>% 
   summarize(cov_mean = mean(cover,na.rm=TRUE),
             cov_tot = sum(cover)) %>% 
-  ggplot()+theme_classic()+theme(legend.position="none")+
+  ggplot()+theme_classic()+
+  theme(legend.position="none",
+        axis.text = element_text(size=20),
+        axis.title = element_text(size=24))+
   geom_vline(xintercept=2014,lwd=2,color="gray")+
   geom_line(aes(x=Year,y=cov_tot,color=region),size=1)+
   labs(y="Total Cover (ha)")+
@@ -158,7 +161,10 @@ p6 <- kelpca_tempfp %>%
             cov_tot = sum(cover)) %>% 
   filter(region=="Smith and Minor Island AR"|region=="Cypress Island AR"|region=="Cherry Point AR")  %>% 
   filter(Year!=2010) %>% 
-  ggplot()+theme_classic()+theme(legend.position="none")+
+  ggplot()+theme_classic()+  
+  theme(legend.position="none",
+        axis.text = element_text(size=13),
+        axis.title = element_text(size=16))+
   geom_vline(xintercept=2014,lwd=2,color="gray")+
   geom_line(aes(x=Year,y=cov_tot,color=region),size=1)+
   labs(y="Total Cover (ha)")+xlim(2011,2021)+
@@ -171,7 +177,7 @@ p6
 
 
 
-jpeg(filename = "figures/FigureS1_floatingkelp_tot_cov_alltime.jpg",width=10, height=6,
+jpeg(filename = "figures/FigureS1_floatingkelp_tot_cov_alltime.jpg",width=10, height=6.5,
      units="in",res=300)
 p5+p6+plot_layout(ncol=2,widths=c(2,1))
 dev.off()

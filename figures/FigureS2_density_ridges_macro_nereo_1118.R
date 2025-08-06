@@ -13,7 +13,11 @@ kelpca_ne_ma_tempfp <- rbind(kelpca_ne_tempfp,kelpca_ma_tempfp)
 p1 <- ggplot(aes(x=ca_permaxt,y=kelp_sp, height=stat(density)), 
        data = kelpca_ne_ma_tempfp1118)+
   geom_density_ridges(stat = "density",alpha=0.7)+
-  theme_minimal()+guides(fill="none")+
+  theme_minimal()+
+  theme(legend.position="none",
+        axis.text = element_text(size=13),
+        axis.title = element_text(size=16))+
+  guides(fill="none")+
   scale_x_continuous(name="Percent of maximum canopy area")+
   scale_y_discrete(name="Density distribution (2011-2018)",labels=c("Macrocystis","Nereocystis"))
 
