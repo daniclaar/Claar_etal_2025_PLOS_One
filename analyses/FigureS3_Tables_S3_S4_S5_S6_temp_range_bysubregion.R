@@ -7,8 +7,9 @@ load(file="analyses/prepped_data_ca.RData")
 p_CherryPoint_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
   theme(legend.position = "none",axis.title.y = element_blank(),
-        axis.title.x=element_blank(),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+        axis.title.x=element_blank(),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
@@ -26,8 +27,9 @@ p_CherryPoint_all <- COSTR_AQRES_sst %>%
 p_CypressIsland_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
   theme(legend.position = "none",axis.title.y = element_blank(),
-        axis.title.x=element_blank(),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+        axis.title.x=element_blank(),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
@@ -62,8 +64,9 @@ p_CypressIsland_all <- COSTR_AQRES_sst %>%
 p_SmithMinor_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
   theme(legend.position = "none",axis.title.y = element_blank(),
-        axis.title.x=element_blank(),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+        axis.title.x=element_blank(),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
@@ -95,9 +98,10 @@ geom_line(aes(x=date, y=COSTR_map_index_SIAR_1_1.1),
 
 p_EStrait_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
-  theme(legend.position = "none",axis.title.y = element_text(size=18),
-        axis.title.x=element_blank(),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+  theme(legend.position = "none",axis.title.y = element_blank(),
+        axis.title.x=element_blank(),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
@@ -158,8 +162,9 @@ p_EStrait_all <- COSTR_AQRES_sst %>%
 p_WStrait_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
   theme(legend.position = "none",axis.title.y = element_blank(),
-        axis.title.x=element_blank(),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+        axis.title.x=element_blank(),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
@@ -219,8 +224,9 @@ p_WStrait_all <- COSTR_AQRES_sst %>%
 p_Coast_all <- COSTR_AQRES_sst %>% 
   ggplot()+theme_bw()+
   theme(legend.position = "none",axis.title.y = element_blank(),
-        axis.title.x=element_text(size=18),plot.title = element_text(hjust = 0.5),
-        axis.text.y = element_text(size=14),axis.text.x = element_text(size=14))+
+        axis.title.x=element_text(size=18),
+        plot.title = element_text(hjust = 0.5, size=16),
+        axis.text.y = element_text(size=14),axis.text.x = element_text(size=16))+
   geom_hline(yintercept = 14,color="darkgray")+
   geom_hline(yintercept = 15,color="goldenrod2")+
   geom_hline(yintercept = 16,color="darkorange")+
